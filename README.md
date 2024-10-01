@@ -1,4 +1,4 @@
-# Day 4 Tasks
+# Task 3
 
 1. Programs in anonymous function & IIFE[Anonymous](./anonymous%20function/) & [IIFE](./IIFE/)
     a. Print odd numbers in an array
@@ -15,5 +15,3 @@
     c. Sum of all numbers in an array
     d. Return all the prime numbers in an array
     e. Return all the palindromes in an array
-
-3. completed warmup js [functionCode](./warmupjs/)
